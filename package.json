@@ -1,4 +1,5 @@
 {
+  "version": "0.20.3",
   "name": "recompose-build",
   "private": true,
   "author": "Andrew Clark <acdlite@me.com>",
